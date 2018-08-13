@@ -1,0 +1,4 @@
+BIP@orlsol00_prdbakdrp>set lines 300
+BIP@orlsol00_prdbakdrp>set pages 500
+BIP@orlsol00_prdbakdrp>
+BIP@orlsol00_prdbakdrp>spool display_sql_plan_baseline.lst

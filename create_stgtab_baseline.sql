@@ -1,0 +1,1 @@
+exec DBMS_SPM.CREATE_STGTAB_BASELINE (table_name => 'BIP_STGTAB', table_owner => 'BIP');
