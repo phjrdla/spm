@@ -1,0 +1,1 @@
+exec DBMS_SQLTUNE.DROP_SQL_PROFILE ( name => '&sql_profile' );
